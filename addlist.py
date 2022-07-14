@@ -22,4 +22,4 @@ if __name__ == '__main__':
     lista=[]
 
     for_add_elements_list(lista)
-    while_add_elements_list(lista)
+    while_add_elements_list(lista) 
